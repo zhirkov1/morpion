@@ -1,2 +1,0 @@
-# morpion
-jeu de morpion
